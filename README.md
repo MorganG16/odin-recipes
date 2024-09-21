@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to make a website that will have links to a bunch of recipes, and by the end of this lessson I will hopefuly improve my knowledge and understanding when it comes to using html
